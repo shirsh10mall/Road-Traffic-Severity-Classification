@@ -3,7 +3,7 @@ import streamlit as st
 import numpy
 import pandas as pd 
 import joblib
-pip install feature_engine
+# pip install feature_engine
 import feature_engine
 # import shap
 
