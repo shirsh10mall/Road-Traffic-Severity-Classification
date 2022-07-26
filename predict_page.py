@@ -4,6 +4,7 @@ import numpy
 import pandas as pd 
 import joblib
 !pip install feature_engine
+import feature_engine
 # import shap
 
 # from streamlit_shap import st_shap
