@@ -1,6 +1,8 @@
 # Road Traffic Accidents Severity Prediction app
 
-https://road-traffic-severity.herokuapp.com/
+App: https://road-traffic-severity.herokuapp.com/
+
+Kaggle Notebook: https://www.kaggle.com/code/shirshmall/road-traffic-accidents-severity-classification
 
 Problem Statement: The target feature is Accident_severity which is a multi-class variable. The task is to classify this variable based on the other 31 features step-by-step by going through each day's task. Your metric for evaluation will be f1-score
 
