@@ -1,9 +1,12 @@
+import sys
+import subprocess
+# implement pip as a subprocess:
+subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'feature_engine'])
 import streamlit as st
 # import pickle
 import numpy
 import pandas as pd 
 import joblib
-# pip install feature_engine
 import feature_engine
 # import shap
 
